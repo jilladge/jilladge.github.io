@@ -33,3 +33,8 @@ p {
     background-color: azure;
     padding: 20px;
 }
+
+img {
+    width: 200px;
+    height: 300px;
+}
