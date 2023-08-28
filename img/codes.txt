@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="index,follow" />
+    <link rel="icon" href="/jilladge.github.io/img/668basketball_100473.ico">
+    <link rel="stylesheet" href="/jilladge.github.io/img/style.css">
+    <title>Jillian Adge</title>
+  </head>
+  <body style="background-color: rgb(234, 150, 240);">
+    <h1>Jillian Adge</h1>
+    <h2>Things that interest me</h2>
+    <div>
+    <ul>
+      <li> <a href="https://jilladge.github.io/contact.html">Traveling</a></li>
+      <li>Sports</li>
+      <li>My dog Gracie</li>
+      <li>Family</li>
+    </ul>
+    </div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, sequi, esse sed accusamus saepe dicta incidunt dolore sunt numquam dolor commodi hic soluta itaque, reiciendis culpa alias eius fugit perspiciatis facilis in nihil? Ex, nobis ratione molestias magni, culpa dolor obcaecati nulla sequi quis quasi dolores ullam eius cum neque!</p>
+  </body>
+</html>
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="index,follow" />
+    <link rel="icon" href="/jilladge.github.io/img/668basketball_100473.ico">
+    <link rel="stylesheet" href="/jilladge.github.io/img/style.css">
+    <title>Jillian Adge</title>
+  </head>
+  <body style="background-color: rgb(234, 150, 240);">
+    <h1>Jillian Adge</h1>
+    <h2>Things that interest me</h2>
+    <div>
+    <ul>
+      <li> <a href="https://jilladge.github.io/contact.html">Traveling</a></li>
+      <li>Sports</li>
+      <li>My dog Gracie</li>
+      <li>Family</li>
+    </ul>
+    </div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, sequi, esse sed accusamus saepe dicta incidunt dolore sunt numquam dolor commodi hic soluta itaque, reiciendis culpa alias eius fugit perspiciatis facilis in nihil? Ex, nobis ratione molestias magni, culpa dolor obcaecati nulla sequi quis quasi dolores ullam eius cum neque!</p>
+  </body>
+</html>
+
+html {
+    font-size: 62.5%;  
+}
+
+h1 {
+    font-size: 5rem;
+    font-style: oblique;
+    color: rgb(83, 30, 30);
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+div ul {
+    font-size: 2rem;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+.link-back {
+    font-size: 1.5rem;
+    color: black;
+}
+
+p {
+    font-size: 3rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+    padding: 20px;
+}
+
